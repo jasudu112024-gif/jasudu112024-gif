@@ -35,7 +35,7 @@
 
 ### 🗣️ Idiomas
 
-* 🇬🇧 **Inglés** — Progreso académico completado en los niveles A1.2, A1.3 y alcanzando el nivel A2.1.
+* 🇬🇧 **Inglés** — Progreso académico completado en los niveles A1.2, A1.3, A2.1, A2.2, A2.3 Alcanzando nivel B1.1
 
 ---
 
