@@ -19,7 +19,7 @@
 
 ![Scrum](https://img.shields.io/badge/SCRUM-6B21A8?style=for-the-badge)
 ![Liderazgo & Soft Skills](https://img.shields.io/badge/LIDERAZGO_%26_SOFT_SKILLS-008080?style=for-the-badge)
-![Inglés A2.1](https://img.shields.io/badge/INGL%C3%89S_A2.1-2E7D32?style=for-the-badge)
+![Inglés A2.3](https://img.shields.io/badge/INGL%C3%89S_A2.1-2E7D32?style=for-the-badge)
 
 ---
 
@@ -47,3 +47,4 @@
 * 🌐 **Control de versiones y colaboración con GitHub.**
 * ⚙️ **Aplicación de Scrum y Metodologías Ágiles.**
 * 🗄️ **Fundamentos de Backend y Bases de Datos.**
+* **Actualmente introduccion a java y programación orientada a objetos**
